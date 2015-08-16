@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "homepage": "https://github.com/zdne/goodapi.design",
   "authors": [
-    "zdenek@me.com"
+    "@zdne"
   ],
-  "description": "The tao of (not only) Web API Design",
+  "description": "The tao of Good API Design",
   "main": "index.html",
   "keywords": [
     "api",

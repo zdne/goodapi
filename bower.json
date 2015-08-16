@@ -1,0 +1,30 @@
+{
+  "name": "Good API Design",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zdne/goodapi.design",
+  "authors": [
+    "zdenek@me.com"
+  ],
+  "description": "The tao of (not only) Web API Design",
+  "main": "index.html",
+  "keywords": [
+    "api",
+    "rest",
+    "design",
+    "web",
+    "restful",
+    "hypermedia",
+    "semantics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

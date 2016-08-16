@@ -1,12 +1,12 @@
 # The Tao of good API design
 
-A simple site for (not only) Web, REST, RESTful, Hypermedia API architects. 
+A simple site for (not only) Web, REST, RESTful, Hypermedia API architects.
 
 The goal of this project is to shift the attention from HTTP to what really matters – Data and semantics.
 
-<http://goodapi.design>
+<http://goodapi.co>
 
-## Qestions
+## Questions
 
 Use GitHub issues.
 
@@ -14,6 +14,6 @@ Use GitHub issues.
 
 Fork & Pull Request.
 
-## LICENSE 
+## LICENSE
 
 MIT License. See the LICENSE file.
